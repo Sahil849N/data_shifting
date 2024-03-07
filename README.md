@@ -1,2 +1,2 @@
 # data_shifting
-using shift registers
+using universal shift registers
